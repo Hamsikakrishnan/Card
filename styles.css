@@ -1,0 +1,33 @@
+body{
+    margin:20px;
+    /* background: blue; */
+    /* font-family: Verdana; */
+    font-family: 'Courier New', monospace;
+}
+
+.img {
+    width:150px;
+}
+.card {
+    width:400px;
+    /* margin-right:auto;
+    margin-left:auto; */
+    /* margin:auto; */
+    margin: 0 auto;
+    padding: 20px;
+    display:flex;
+    justify-content:space-around;
+    text-align: center;
+    /* border:none; */
+    border-left:5px solid #472d30;
+    background: #f08080;
+    color:#2590d22;
+    border-radius: 10px;
+    /* font-family:serif; */
+    box-shadow: 10px 10px 15px gray;
+}
+.mar{
+    margin-top:10px;
+    margin-left:10px;
+}
+
